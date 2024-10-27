@@ -19,4 +19,4 @@ This project involves the development of services for a ticket booking system fo
 
 ## In conclusion 🔚 
 
-This project has been created with the purpose of learning to use JUnit and EasyMock Objects for the testing parts. I aldo learned how to apply Test-Driven Development methodolog.
+This project has been created with the purpose of learning to use JUnit and EasyMock Objects for the testing parts. I aldo learned how to apply Test-Driven Development methodology.
