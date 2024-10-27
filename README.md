@@ -1,4 +1,4 @@
-<h1 align="center">🎫​ Ticket Booking System 🚌</h1>
+<h1 align="center">🎫​ Transport Ticket Purchase System 🚌</h1>
 
 ## Description 🌟
 
